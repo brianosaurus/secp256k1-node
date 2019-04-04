@@ -1,6 +1,6 @@
 {
   "name": "secp256k1",
-  "version": "5.5.5555",
+  "version": "brianosaurus/secp256k1-node",
   "description": "This module provides native bindings to ecdsa secp256k1 functions",
   "keywords": [
     "ec",
