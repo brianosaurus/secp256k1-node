@@ -24,7 +24,8 @@
     "lib",
     "src",
     "API.md",
-    "index.js"
+    "index.js",
+    "js.js"
   ],
   "main": "./index.js",
   "repository": {
