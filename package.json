@@ -25,7 +25,8 @@
     "src",
     "API.md",
     "index.js",
-    "js.js"
+    "js.js",
+    "elliptic.js"
   ],
   "main": "./index.js",
   "repository": {
